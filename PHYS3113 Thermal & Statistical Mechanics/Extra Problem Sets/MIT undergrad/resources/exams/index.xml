@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exams on MIT OpenCourseWare</title>
+    <link>/resources/exams/</link>
+    <description>Recent content in Exams on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/exams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8.044s13 Exam1</title>
+      <link>/resources/mit8_044s13_e1_b/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_e1_b/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding exam 1.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Exam1</title>
+      <link>/resources/mit8_044s14_exam1_03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_exam1_03/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding exam 1.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Exam1</title>
+      <link>/resources/mit8_044s14_exam1_04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_exam1_04/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>8.044s13 Exam1Sol</title>
+      <link>/resources/mit8_044s13_e1sol_b/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_e1sol_b/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding exam 1 solution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Exam1Sol</title>
+      <link>/resources/mit8_044s14_exam1sol_04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_exam1sol_04/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding exam 1 solution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Exam1Sol </title>
+      <link>/resources/mit8_044s14_exam1sol_03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_exam1sol_03/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding exam 1 solution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Exam2</title>
+      <link>/resources/mit8_044s13_e2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_e2/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding exam 2.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Exam2</title>
+      <link>/resources/mit8_044s14_exam2_03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_exam2_03/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>8.044s13 Exam2</title>
+      <link>/resources/mit8_044s14_exam2_04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_exam2_04/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding exam 2.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Exam2Sol</title>
+      <link>/resources/mit8_044s13_e2s/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_e2s/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding final exam 2 solution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Exam2Sol</title>
+      <link>/resources/mit8_044s14_exam2sol_03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_exam2sol_03/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding exam 2 solution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Exam2Sol</title>
+      <link>/resources/mit8_044s14_exam2sol_04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_exam2sol_04/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding exam 2 solution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Exam3</title>
+      <link>/resources/mit8_044s14_exam3_03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_exam3_03/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding exam 2.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Exam3</title>
+      <link>/resources/mit8_044s14_exam3_04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_exam3_04/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding practice exam 3.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Exam3Sol</title>
+      <link>/resources/mit8_044s14_exam3sol_03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_exam3sol_03/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding exam 3 solution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Exam3Sol</title>
+      <link>/resources/mit8_044s14_exam3sol_04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_exam3sol_04/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding exam 3 solution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Exam4</title>
+      <link>/resources/mit8_044s14_exam4_03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_exam4_03/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding exam 4.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Exam4</title>
+      <link>/resources/mit8_044s14_exam4_04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_exam4_04/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding exam 4.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Exam4Sol</title>
+      <link>/resources/mit8_044s14_exam4sol_03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_exam4sol_03/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding exam 4 solution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Exam4Sol</title>
+      <link>/resources/mit8_044s14_exam4sol_04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_exam4sol_04/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding exam 4 solution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Final Exam</title>
+      <link>/resources/mit8_044s13_final/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_final/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding final exam.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Final Exam Sol</title>
+      <link>/resources/mit8_044s13_final_s/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_final_s/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding final exam solution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 PracExam1</title>
+      <link>/resources/mit8_044s13_e1p/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_e1p/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding practice exam 1.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 PracExam1</title>
+      <link>/resources/mit8_044s14_practexam1_03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_practexam1_03/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding practice exam 1.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 PracExam1Sol</title>
+      <link>/resources/mit8_044s13_e1psol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_e1psol/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding practice exam 1 solution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 PracExam1Sol</title>
+      <link>/resources/mit8_044s14_praexam1sol_03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_praexam1sol_03/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding practice exam 1 solution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 PracExam2</title>
+      <link>/resources/mit8_044s13_e2p/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_e2p/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding practice exam 2.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 PracExam2</title>
+      <link>/resources/mit8_044s14_practexam2_03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_practexam2_03/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>8.044s13 PracExam2Sol</title>
+      <link>/resources/mit8_044s13_e2ps/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_e2ps/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding practice exam 2 solution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 PracExam2Sol</title>
+      <link>/resources/mit8_044s14_praexam2sol_03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_praexam2sol_03/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding practice exam 2 solution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 PracExam3</title>
+      <link>/resources/mit8_044s14_practexam3_03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_practexam3_03/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding practice exam 3.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 PracExam3Sol</title>
+      <link>/resources/mit8_044s14_praexam3sol_03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_praexam3sol_03/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding practice exam 3 solution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 PracExam4</title>
+      <link>/resources/mit8_044s14_practexam4_03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_practexam4_03/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding practice exam 4.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 PracExam4Sol</title>
+      <link>/resources/mit8_044s14_praexam4sol_03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s14_praexam4sol_03/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding practice exam 4 solution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exams</title>
+      <link>/pages/exams/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/exams/data.json</guid>
+      <description>&lt;p&gt;&lt;table&gt;&#xA;&#xA;&lt;thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;EXAM #&#xA;&lt;/th&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;PRACTICE EXAMS&#xA;&lt;/th&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;EXAMS&#xA;&lt;/th&gt;&#xA;&lt;/p&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;p&gt;&lt;/thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;1&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/mit8_044s13_e1p/index.html&#34;&gt;Practice Exam 1 (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/mit8_044s13_e1psol/index.html&#34;&gt;Practice Exam 1 Solution (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/mit8_044s13_e1_b/index.html&#34;&gt;Exam 1 (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/mit8_044s13_e1sol_b/index.html&#34;&gt;Exam 1 Solution (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;2&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/mit8_044s13_e2p/index.html&#34;&gt;Practice Exam 2 (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/mit8_044s13_e2ps/index.html&#34;&gt;Practice Exam 2 Solution (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/mit8_044s13_e2/index.html&#34;&gt;Exam 2 (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/mit8_044s13_e2s/index.html&#34;&gt;Exam 2 Solution (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Final&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;There is no practice exam for the Final.&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/mit8_044s13_final/index.html&#34;&gt;Final Exam (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/mit8_044s13_final_s/index.html&#34;&gt;Final Exam Solution (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;/table&gt;&#xA;&#xA;&#xA;    &lt;h3 id=&#34;exams-from-previous-years&#34;&gt;Exams from Previous Years&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;&lt;table&gt;&#xA;&#xA;&lt;thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;EXAM #&#xA;&lt;/th&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;PRACTICE EXAMS&#xA;&lt;/th&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;2003 EXAMS&#xA;&lt;/th&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;2004 EXAMS&#xA;&lt;/th&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

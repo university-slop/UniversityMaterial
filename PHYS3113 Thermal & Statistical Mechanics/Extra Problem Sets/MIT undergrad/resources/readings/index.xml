@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Readings on MIT OpenCourseWare</title>
+    <link>/resources/readings/</link>
+    <description>Recent content in Readings on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/readings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8.044s13 Excited State Helium, He</title>
+      <link>/resources/mit8_044s13_exctstathe/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_exctstathe/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding excited state helium.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Functions of a Random Variable</title>
+      <link>/resources/mit8_044s13_probabilitych3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_probabilitych3/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding functions of a random variable.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Indistinguishable Particle Effects in Rotational Raman Scattering</title>
+      <link>/resources/mit8_044s13_notes-raman/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_notes-raman/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding indistinguishable particle effects in rotational raman scattering.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Interstitial Atoms</title>
+      <link>/resources/mit8_044s13_notes-inters/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_notes-inters/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding interstitial atoms.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Lec10Slides</title>
+      <link>/resources/mit8_044s13_l10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_l10/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding lecture 10.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Lec11Slides</title>
+      <link>/resources/mit8_044s13_l11/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_l11/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding lecture 11.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Lec12Slides</title>
+      <link>/resources/mit8_044s13_l12/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_l12/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding lecture 12.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Lec13Slides</title>
+      <link>/resources/mit8_044s13_l13/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_l13/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding lecture 13.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Lec14Slides</title>
+      <link>/resources/mit8_044s13_l14/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_l14/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding lecture 14.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Lec15Slides</title>
+      <link>/resources/mit8_044s13_l15/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_l15/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding lecture 15.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Lec16Slides</title>
+      <link>/resources/mit8_044s13_l16/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_l16/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding lecture 16.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Lec17Slides</title>
+      <link>/resources/mit8_044s13_l17/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_l17/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding lecture 17.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Lec18Slides</title>
+      <link>/resources/mit8_044s13_l18/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_l18/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding lecture 18.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Lec19Slides</title>
+      <link>/resources/mit8_044s13_l19/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_l19/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding lecture 19.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Lec1Slides</title>
+      <link>/resources/mit8_044s13_l1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_l1/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding lecture 1.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Lec20Slides</title>
+      <link>/resources/mit8_044s13_l20/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_l20/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding lecture 20.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Lec21Slides</title>
+      <link>/resources/mit8_044s13_l21/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_l21/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding lecture 21.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Lec22Slides</title>
+      <link>/resources/mit8_044s13_l22/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_l22/data.json</guid>
+      <description>&lt;p&gt;This resource contains information related to lecture 22.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Lec2Slides</title>
+      <link>/resources/mit8_044s13_l2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_l2/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding lecture 2.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Lec3Slides</title>
+      <link>/resources/mit8_044s13_l3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_l3/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding lecture 3.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Lec4Slides</title>
+      <link>/resources/mit8_044s13_l4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_l4/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding lecture 4.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Lec5Slides</title>
+      <link>/resources/mit8_044s13_l5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_l5/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding lecture 5.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Lec6Slides</title>
+      <link>/resources/mit8_044s13_l6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_l6/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding lecture 6.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Lec7Slides</title>
+      <link>/resources/mit8_044s13_l7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_l7/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding lecture 7.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Lec8Slides</title>
+      <link>/resources/mit8_044s13_l8/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_l8/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding lecture 8.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Lec9Slides</title>
+      <link>/resources/mit8_044s13_l9/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_l9/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding lecture 9.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Maxwell Relations: A Wealth of Partial Derivatives</title>
+      <link>/resources/mit8_044s13_notes-max/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_notes-max/data.json</guid>
+      <description>&lt;p&gt;This resource contains information regarding maxwell relations: a wealth of partial derivatives.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Notes on the Canonical Ensemble</title>
+      <link>/resources/mit8_044s13_canonical/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_canonical/data.json</guid>
+      <description>&lt;p&gt;This resource contains information regarding notes on the canonical ensemble.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Notes on the Microcanonical Ensemble</title>
+      <link>/resources/mit8_044s13_mcrocanoncl/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_mcrocanoncl/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding notes on the microcanonical ensemble.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Notes on Thermodynamic Systems</title>
+      <link>/resources/mit8_044s13_notes-def/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_notes-def/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding notes on thermodynamic systems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 One Random Variable</title>
+      <link>/resources/mit8_044s13_probabilitych1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_probabilitych1/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding one random variable.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Sums of Random Variables</title>
+      <link>/resources/mit8_044s13_probabilitych4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_probabilitych4/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding sums of random variables.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8.044s13 Two Random Variables</title>
+      <link>/resources/mit8_044s13_probabilitych2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit8_044s13_probabilitych2/data.json</guid>
+      <description>&lt;p&gt;This file contains information regarding two random variables.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Readings, Notes &amp; Slides</title>
+      <link>/pages/readings-notes-slides/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/readings-notes-slides/data.json</guid>
+      <description>&lt;p&gt;[B&amp;amp;B] = Blundell, Stephen, and Katherine M. Blundell. &lt;em&gt;Concepts in Thermal Physics&lt;/em&gt;. Oxford University Press, 2009. ISBN: 9780199562091.&lt;/p&gt;&#xA;&lt;p&gt;[Huang] = Huang, Kerson. &lt;em&gt;Statistical Mechanics&lt;/em&gt;. Wiley, 1987. ISBN: 9780471815181.&lt;/p&gt;&#xA;&lt;p&gt;&lt;table&gt;&#xA;&#xA;&lt;thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;LEC #&#xA;&lt;/th&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;SUGGESTED READINGS&#xA;&lt;/th&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;LECTURE NOTES&#xA;&lt;/th&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;SLIDES&#xA;&lt;/th&gt;&#xA;&lt;/p&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;p&gt;&lt;/thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;1&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;[B&amp;amp;B] Chapter 3: Probability&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit8_044s13_probabilitych1/index.html&#34;&gt;Probability Notes, Chapter 1, One Random Variable (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit8_044s13_l1/index.html&#34;&gt;Lecture 1 (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;2&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA; No Readings&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit8_044s13_probabilitych2/index.html&#34;&gt;Probability Notes, Chapter 2, Two Random Variables (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit8_044s13_l2/index.html&#34;&gt;Lecture 2 (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;3&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA; No Readings&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit8_044s13_probabilitych3/index.html&#34;&gt;Probability Notes, Chapter 3, Functions of a Random Variable (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit8_044s13_l3/index.html&#34;&gt;Lecture 3 (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
